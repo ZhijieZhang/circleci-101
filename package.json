@@ -1,0 +1,27 @@
+{
+  "name": "circleci-101",
+  "version": "1.0.0",
+  "description": "",
+  "main": "math.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZhijieZhang/circleci-101.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZhijieZhang/circleci-101/issues"
+  },
+  "homepage": "https://github.com/ZhijieZhang/circleci-101#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  }
+}
